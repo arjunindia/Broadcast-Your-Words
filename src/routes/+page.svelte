@@ -50,7 +50,7 @@
     />
     <button on:click={quoteFn}>Speak to the world!</button>
   </form>
-  <p>Check the last message sent! Everone visiting can ee this!</p>
+  <p>Check the last message sent! Everone visiting can see this!</p>
   <h2>"{quote}"</h2>
   <p id="count">Number of users connected : {count}</p>
 </main>
